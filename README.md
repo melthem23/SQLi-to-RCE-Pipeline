@@ -1,9 +1,4 @@
 # Sızma Testi Projesi: SQL Injection to RCE Pipeline
-
-**Öğrenci Adı:** Meltem Eser  
-**Ders:** Sızma Testi  
-**Seçilen Senaryo:** #L1 - SQLi to RCE Pipeline (Zorluk: 10/10)
-
 ---
 
 ## GİRİŞ VE HEDEF

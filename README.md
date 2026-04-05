@@ -4,7 +4,6 @@
 ## GİRİŞ VE HEDEF
 Bu çalışmada, hedef web uygulamasındaki bir SQL Injection zafiyeti kullanılarak sunucu üzerinde bir arka kapı (Web Shell) oluşturulmuş ve bu sayede veritabanı zafiyeti, işletim sisteminde doğrudan komut çalıştırabilme (Remote Code Execution - RCE) noktasına evrilmiştir.
 
----
 
 **Kullanılan SQL Enjeksiyonu ve Payload:**
 ```sql
